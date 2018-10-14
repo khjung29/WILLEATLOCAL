@@ -1,0 +1,27 @@
+{ 
+  "channels" : [
+    {
+      "title" : "현지에서먹힐까",
+      "fbNativeInterval" : "2",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "11773044",
+      "memberNo" : "3669297",
+      "seriesNoChina" : "490911",
+      "seriesNoEtc" : "446947",
+      "itemList" : [
+          { "title" : "중국편", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "태국편", "id" : "2", "img" : "", "sort" : "2"}
+      ]
+    }    
+  ]
+}
